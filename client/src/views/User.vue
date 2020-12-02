@@ -79,7 +79,7 @@ export default {
         description: '',
         user_id: this.activeUserId
       }
-      console.log('userId', this.activeUserId);
+      console.log('userId', this.activeUserId)
       app.service('boards').create(newBoard)
     },
     deleteChange() {

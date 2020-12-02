@@ -73,7 +73,7 @@ export default {
   },
   data() {
     return {
-      patchTaskDisplay: false,
+      patchTaskDisplay: false
     }
   },
   computed: {

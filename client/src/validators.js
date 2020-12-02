@@ -1,1 +1,1 @@
-export const notEmptyRules = [value => !!value || 'Cannot be empty.'];
+export const notEmptyRules = [value => !!value || 'Cannot be empty.']
